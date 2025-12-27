@@ -1,0 +1,9 @@
+2025-12-23 11:43:07,893 [INFO] Tesseract: C:\Program Files\Tesseract-OCR\tesseract.exe
+2025-12-23 11:43:07,948 [INFO] Imported existing <module 'comtypes.gen' from 'C:\\Users\\lenovo\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-12-23 11:43:07,948 [INFO] Using writeable comtypes cache directory: 'C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-12-23 11:43:08,475 [INFO] ============================================================
+2025-12-23 11:43:08,477 [INFO] UNIVERSAL ACCESS PLATFORM
+2025-12-23 11:43:08,477 [INFO] ============================================================
+2025-12-23 11:43:08,804 [INFO] YOLO: 80 classes
+2025-12-23 11:43:08,830 [ERROR] No API key
+2025-12-23 11:43:08,884 [INFO] Features: {'ocr': True, 'yolo': True, 'ai': False, 'cam': True, 'mic': True}

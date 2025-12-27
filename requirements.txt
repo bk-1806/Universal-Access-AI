@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pytesseract
+pyttsx3
+SpeechRecognition
+pyaudio
+groq
+pywin32
+pillow
