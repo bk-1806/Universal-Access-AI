@@ -30,5 +30,5 @@ Universal Access AI is an intelligent accessibility tool designed to help users 
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Universal-Access-AI.git](https://github.com/YOUR_USERNAME/Universal-Access-AI.git)
+git clone [https://github.com/bk-1806/Universal-Access-AI.git](https://github.com/YOUR_USERNAME/Universal-Access-AI.git)
 cd Universal-Access-AI
