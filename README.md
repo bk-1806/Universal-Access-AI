@@ -8,7 +8,7 @@ Universal Access AI is an intelligent accessibility tool designed to help users 
 ![Python Version](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
----<img width="1906" height="1085" alt="pv tests" src="https://github.com/user-attachments/assets/4095c244-7d14-4170-8a87-2339017e60bc" />
+<img width="1920" height="1017" alt="Screenshot 2026-01-01 192531" src="https://github.com/user-attachments/assets/a1e7aacb-64df-4006-98f5-2a338bf0ed98" />
 
 
 ## 🚀 Key Features
